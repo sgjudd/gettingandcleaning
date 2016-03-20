@@ -1,5 +1,4 @@
-# gettingandcleaning
-## Assignment: Getting and Cleaning Data Course Project
-### Stephen Judd
+# Assignment: Getting and Cleaning Data Course Project
+## Stephen Judd
 
 
