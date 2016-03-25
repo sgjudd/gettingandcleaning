@@ -2,10 +2,10 @@
 ## Stephen Judd - March 2016
 
 ## Data files
-*  cleaned
+*  cleaned *(data/cleaned.txt)*
   + Dimensions: 10299 x 68
                                                                
-* averagebysubjectandactivity
+* averagebysubjectandactivity *(data/averagebysubjectandactivity.txt)*
  + Dimensions: 180 x 68
 
  ## Variables
