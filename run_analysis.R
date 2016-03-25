@@ -83,5 +83,5 @@ averagebysubjectandactivity <-
   summarise_each(funs(mean))
 
 # Write data frames to files in data folder
-write.table(cleaned, file = "data/cleaned.txt")
-write.table(averagebysubjectandactivity, file = "data/averagebysubjectandactivity.txt")
+write.table(cleaned, file = "data/cleaned.txt", row.names = FALSE)
+write.table(averagebysubjectandactivity, file = "data/averagebysubjectandactivity.txt", row.names = FALSE)
