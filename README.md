@@ -61,9 +61,9 @@ library(dplyr)
 13. Write data frames to files in data folder *("data/cleaned.txt", "data/averagebysubjectandactivity.txt")*
 
 ## Data files
-*  cleaned
+*  cleaned *(data/cleaned.txt)*
   + Dimensions: 10299 x 68
                                                                
-* averagebysubjectandactivity
+* averagebysubjectandactivity *(data/averagebysubjectandactivity.txt)*
  + Dimensions: 180 x 68
 
